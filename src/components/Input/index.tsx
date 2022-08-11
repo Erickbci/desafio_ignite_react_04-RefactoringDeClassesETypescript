@@ -58,4 +58,4 @@ const Input = ({ name, icon: Icon, ...rest }: InputProps) => {
   );
 };
 
-
+export default Input
